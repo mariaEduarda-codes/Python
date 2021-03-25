@@ -10,7 +10,7 @@ n = int(input("Quantos números você vai digitar? "))
 dentro_intervalo = 0
 fora_intervalo = 0
 
-for i in range(0, 5):
+for i in range(0, n):
     x = int(input("Digite um número: "))
     if 10 >= x <= 20:
         dentro_intervalo += 1
