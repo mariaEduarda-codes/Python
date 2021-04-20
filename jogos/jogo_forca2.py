@@ -30,3 +30,5 @@ while (not acertou) and (not enforcou):
         acertou = True
         print("Você ganhou! ")
         break
+
+# Jogo da forca, desta vez feito por mim, sem acompanhamento do instrutor.        
